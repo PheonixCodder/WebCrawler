@@ -1,0 +1,24 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/PheonixCodder/WebCrawler#readme",
+  "bugs": {
+    "url": "https://github.com/PheonixCodder/WebCrawler/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PheonixCodder/WebCrawler.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start":"node main.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^30.0.5"
+  }
+}
