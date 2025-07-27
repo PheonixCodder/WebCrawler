@@ -15,10 +15,11 @@
   "type": "commonjs",
   "main": "main.js",
   "scripts": {
-    "start":"node main.js",
+    "start": "node main.js",
     "test": "jest"
   },
   "dependencies": {
-    "jest": "^30.0.5"
+    "jest": "^30.0.5",
+    "jsdom": "^26.1.0"
   }
 }
